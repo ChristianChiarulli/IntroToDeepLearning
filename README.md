@@ -1,2 +1,2 @@
 # IntroToDeepLearning
-Udacity AI course
+Udacity AI course and Examples from Sentdex's intro videos
